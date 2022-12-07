@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html><head>
+    <title>PORTFOLIO</title>
+    
+</head>
+<body>
+    <section>
+    <nav>
+        <li><a href="#Intro">Intro</a></li>
+        <li><a href="#Education">Education</a></li>
+        <li><a href="#Hobbies">Hobbies</a></li>
+        <li><a href="#Contact">Contact</a></li>
+    </nav>
+</section>
+    <div id="Intro">
+    <h1>Pujan Pant</h1>
+    <img src="file:///C:/Users/Pujan/Downloads/IMG_20220120_193034.jpg" height="150">
+    <section>
+    <p>
+       <em> Hi. It's me Pujan Pant from Butwal. I am currently a student at Herald College,Kathmandu.</em>
+    </p>
+    <blockquote cite="https://www.kidpaw.com/names/pujan">
+    <h2>Meaning of my name:Pujan</h2>
+    <p>Pujan is baby boy name mainly popular in Hindu religion and its main origin is Hindi. Pujan name meanings is The ceremony of worshiping.
+        People search this name as Pujan meaning in gujrati.
+        Pujan is written in Hindi as पूजन. Other similar sounding names can be Bhagini, Bhajan, Bhajuna, Pazhany, Poojan.
+        
+        </p>
+    </blockquote>
+</section>
+    </div>
+    <div id="Education">
+    <h3>Education History</h3>
+    <div id="Hobbies">
+
+    </div><table border="1" cellspacing="2">
+        <tbody><tr>
+            <th>College name</th>
+            <th>Year</th>
+            <th>Stream</th>
+        </tr>
+        <tr>
+            <td>Everest </td>
+            <td>2018-2020</td>
+            <td>Science</td>
+        </tr>
+    
+    </tbody></table>
+    <h4>Hobbies</h4>
+    <ul>
+        <li>Playing Cricket</li>
+        <li>Watching Podcast</li>
+        <li>Playing Football</li>
+        
+    </ul>
+    </div>
+    <div id="Contact">
+    <h4>Contact me</h4>
+
+<form>
+<label>Name:</label>
+<input name:"text"="">
+<label>Email:</label>
+<input name:"text"=""><br><br>
+<label>Message</label>
+<textarea></textarea><br><br>
+<input type="submit">
+
+</form>
+</div><br><br>
+<footer>
+<strong>Contact me here</strong> <a href="https://www.facebook.com/pujan.pant.9?mibextid=LQQJ4d">Facebook</a><br>
+<strong>Place Visited</strong> <a href="https://whc.unesco.org/en/list/666/">Lumbini</a>
+<p align="center"><mark>Student at Herald</mark></p>
+
+</footer>
+
+
+
+</body></html>
